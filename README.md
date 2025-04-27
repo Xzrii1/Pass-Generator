@@ -19,8 +19,8 @@ No external libraries needed. Only built-in Python modules.
    cd Pass-Generator
 
 2. Run the script
-
-python generator.py
+   ```python
+   python gen.py
 
 
 3. Follow the prompts:
